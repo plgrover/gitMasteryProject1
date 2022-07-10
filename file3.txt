@@ -1,2 +1,4 @@
 This is file 3
+
+Bug fix
 Modified in github...
